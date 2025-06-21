@@ -17,11 +17,11 @@ This project focuses on analyzing Diwali sales data to uncover customer purchasi
    - Product category performance  
 
 3. **Visualization**  
-   - Created bar charts, pie charts, histograms for trend spotting  
+   - Created bar charts, pie charts for trend spotting  
 
 4. **Insight Generation**  
    - Identified high-value customer segments  
    - Discovered best-selling product categories
      
-5. **Conclusion** 
-   Concluding the project with an explanation of the insights and results obtained    from the project.
+5. **Conclusion**
+     Concluding the project with an explanation of the insights and results             obtained from the project.
