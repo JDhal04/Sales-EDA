@@ -1,3 +1,18 @@
+Project Learnings :-
+  Performed data cleaning and manipulation
+  Learned how to clean and preprocess large-scale retail datasets using Python.
+  Performed exploratory data analysis (EDA) using pandas , matplotlib and seaborn libraies
+  Extracted meaningful business insights from data trends and patterns.
+  Improved custome experience by identifying potential customers across different states, occupation , gender and age groups
+  Improved sales by identifying most selling product categories and products , which can help to plan inventory and hence meet the demands
 
-
+Based on the exploratory data analysis and visualizations, we can draw the following conclusions :-
+  Gender : most of the buyers are females and even the purchasing power of females are greater than men
+  Age : most of the buyers are of age group between 26-35 yrs female
+  State : most of the orders & total sales/amount are from Uttar Pradesh, Maharashtra and Karnataka respectively
+  Marrital Staus : most of the buyers are married (women) and they have high purchasing power
+  Occupation : most of the buyers are working in IT, Healthcare and Aviation sector
+  Product Category : most of the sold products are from Food, Clothing and Electronics category
+  
+  Married women age group 26-35 yrs from UP, Maharastra and Karnataka working in IT, Healthcare and Aviation are more likely to buy products from Food, Clothing and Electronics category
 
